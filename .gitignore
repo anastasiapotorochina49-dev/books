@@ -1,0 +1,7 @@
+interactions.csv
+items.csv
+users.csv
+project_code.ipynb
+venv/
+.venv/
+__pycache__/
